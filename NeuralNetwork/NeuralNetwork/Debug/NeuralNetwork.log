@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\git\projects\neural-network\neuralnetwork\neuralnetwork\source.cpp(12): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  NeuralNetwork.vcxproj -> D:\Git\Projects\neural-network\NeuralNetwork\Debug\NeuralNetwork.exe
